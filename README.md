@@ -1,5 +1,4 @@
 # Asteroid Python Clone
-## CS5001 Final project
 
 ## Installation
 This project uses Python 3.8.0
@@ -11,6 +10,7 @@ pip install pygame
 
 ## How to Lauch
 navigate to the __main__.py file and initialize
+`python __main__.py`
 
 ## How to Play
 Using the arrow keys or wasd navigate around the screen and destroy asteroids using (spacebar) to shoot. <br/>
