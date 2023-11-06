@@ -1,9 +1,5 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
-Final Project: Asteroid Clone
 Helper Function TESTING file
-May 2021
 '''
 import unittest, os, random
 from pygame.math import Vector2

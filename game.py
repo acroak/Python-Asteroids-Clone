@@ -1,10 +1,6 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
-Final Project: Asteroid Clone
 game file
 handle the inner workings for game play like game initialization and loop, user input, collision mechanics,and win/lose conditions
-May 2021
 '''
 import pygame, sys, time
 from pygame import mixer

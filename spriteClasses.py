@@ -1,10 +1,7 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
 Final Project: Asteroid Clone
 spriteClasses file
 contains generic sprite class, asteroid, spaceship and bullet classes
-May 2021
 '''
 
 import pygame

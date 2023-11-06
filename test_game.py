@@ -1,9 +1,5 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
-Final Project: Asteroid Clone
 Game TESTING file
-May 2021
 '''
 import unittest, os, game, spriteClasses, helperfunctions
 

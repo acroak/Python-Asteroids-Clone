@@ -1,9 +1,6 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
 Final Project: Asteroid Clone
 __Main__ file, run the game from this file.
-May 2021
 '''
 import pygame
 from game import AsteroidGame

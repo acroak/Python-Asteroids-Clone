@@ -1,9 +1,5 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
-Final Project: Asteroid Clone
-helper functions file
-May 2021
+helper functions
 '''
 import random
 import pygame

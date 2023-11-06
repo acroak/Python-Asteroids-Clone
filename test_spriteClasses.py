@@ -1,9 +1,5 @@
 '''
-Andrea Croak
-CS5001: Fundamentals of Computer Science
-Final Project: Asteroid Clone
 spriteClasses TESTING file
-May 
 '''
 import unittest, pygame, spriteClasses, helperfunctions
 from pygame.math import Vector2
